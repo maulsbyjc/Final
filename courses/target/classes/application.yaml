@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    username: courses
+    password: courses
+    url: jdbc:mysql://localhost:3306/courses
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
