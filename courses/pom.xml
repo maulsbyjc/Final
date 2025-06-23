@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.promineotech</groupId>
-	<artifactId>pet-store</artifactId>
+	<artifactId>courses</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>courses</name>
 	<description>Final Project</description>
